@@ -1,4 +1,4 @@
-<img src="./assets/screenshot-blog.png">
+<img src="./src/assets/screenshot-blog.png">
 <h1 align="center">Blog pessoal - React</h1>
 <p align="center">Projeto desenvolvido como atividade para a matéria de Arquitetura de Frontend na PUC Minas, utilizando a biblioteca React.</p>
 <h1 align="center"></h1>
