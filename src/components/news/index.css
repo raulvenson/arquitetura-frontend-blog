@@ -1,0 +1,30 @@
+.highlights-container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.highlights-container div h3 {
+    margin-top: 30px;
+    color: rgb(27, 54, 104);
+}
+
+.highlights-container div h3:hover {
+    color: rgb(94, 114, 228);
+    transition: 0.5s;
+    opacity: 0.7;
+}
+
+.highlights-container div h2:hover {
+    color: rgb(4, 31, 82);
+}
+
+.highlights-container  b {
+    color: rgb(27, 54, 104);
+}
+
+.highlights-container div b:hover {
+    color: rgb(94, 114, 228);
+    transition: 0.5s;
+    opacity: 0.7;
+} 
